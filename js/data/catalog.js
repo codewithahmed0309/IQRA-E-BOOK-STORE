@@ -29,10 +29,9 @@ export const BOOKS = [
     rating: 4.9,
     premium: true,
     price: 19,
-    downloadFile: "https://drive.google.com/uc?export=download&id=1XFHV5PjT-0x5FyRzus6ZPj6mJD-5mfkR",
     featured: true,
     samplePdf: 'pdfs/khwaab.pdf',
-    downloadFile: 'pdfs/khwaab.pdf'
+    downloadFile: "https://drive.google.com/uc?export=download&id=1XFHV5PjT-0x5FyRzus6ZPj6mJD-5mfkR"
   },
 {
   id: 'DSA',
@@ -44,12 +43,9 @@ export const BOOKS = [
   premium: true,
   price: 99,
   featured: true,
-downloadFile: "https://drive.google.com/uc?export=download&id=1jfML-jUSh2xfwk3zI08BzCiwR7LHvaoB",
   confidential: true,
-
   samplePdf: null,
-
-  downloadFile: 'pdfs/DSA.pdf'
+downloadFile: "https://drive.google.com/uc?export=download&id=1jfML-jUSh2xfwk3zI08BzCiwR7LHvaoB"
 },
   {
     id: 'ai2',
@@ -86,10 +82,9 @@ downloadFile: "https://drive.google.com/uc?export=download&id=1jfML-jUSh2xfwk3zI
     rating: 4.9,
     premium: true,
     confidential: true,
-     downloadFile: "https://drive.google.com/uc?export=download&id=1r1--SkIY7eEaIO0gAuvTlsMUJTB_Qowm",
-    price: 49,
+    price: 9,
     featured: true,
-    downloadFile: 'books/bk-ethics-ai.pdf'
+    downloadFile: "https://drive.google.com/uc?export=download&id=1r1--SkIY7eEaIO0gAuvTlsMUJTB_Qowm"
   },
   {
     id: 'bk-stellar-math',
